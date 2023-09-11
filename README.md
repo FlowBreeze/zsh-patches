@@ -5,6 +5,8 @@ zsh-patches
 
 - zsh-auto-notify
   - https://github.com/MichaelAquilina/zsh-auto-notify/issues/42
+- fzf-tab
+  - https://github.com/Aloxaf/fzf-tab/issues/383
 
 ## Usage
 
